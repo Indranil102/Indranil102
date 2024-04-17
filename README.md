@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Indranil Samanta</h1>
-<h3 align="center">A passionate frontend developer & Ui_Ux designer from India</h3>
+<h3 align="center">A passionate AI ML & Ui_Ux designer from India</h3>
 <img align="right" alt="busy" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **advanced python**
 
 - 💬 Ask me about **html, css, c++, python**
 
