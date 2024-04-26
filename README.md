@@ -13,7 +13,7 @@
 <a href="https://twitter.com/tiku2710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tiku2710" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/indranil samanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="indranil samanta" height="30" width="40" /></a>
 <a href="https://fb.com/indranilsamanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="indranilsamanta" height="30" width="40" /></a>
-<a href="https://instagram.com/indranil.samanta.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="indranil.samanta.10" height="30" width="40" /></a>
+<a href="https://www.instagram.com/indranilsamanta.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="indranil.samanta.10" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
