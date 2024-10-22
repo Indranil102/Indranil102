@@ -1,6 +1,4 @@
-Here’s your updated GitHub `README.md` with the provided links and details:
 
-```md
 <h1 align="center">Hi 👋, I'm Indranil Samanta</h1>
 <h3 align="center">A passionate frontend developer & UI/UX designer from India</h3>
 
@@ -104,6 +102,4 @@ Here’s your updated GitHub `README.md` with the provided links and details:
 </p>
 
 <img align="right" alt="busy" width="400" src="https://www.chawtechsolutions.com/resources/java-developer/" />
-```
 
-Make sure to update the links and image path in the appropriate places.
