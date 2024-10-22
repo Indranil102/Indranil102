@@ -5,8 +5,9 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=indranil102&label=Profile%20views&color=0e75b6&style=flat" alt="indranil102" /> 
 </p>
-<p align="right">
-  <img src="https://github.com/your-username/your-repository-name/raw/main/assets/Front-end_Developer.gif" alt="Front-end Developer GIF" width="500"/>
+<p align=![Front-end_Developer 8e8fc63a21e6eaa925b4](https://github.com/user-attachments/assets/ee36e600-d5af-42ba-b636-4b32c42c680e)
+"right">
+  <img src="" alt="Front-end Developer GIF" width="500"/>
 </p>
 
 - 🔭 I’m currently working on **Ads_click_Pred**
