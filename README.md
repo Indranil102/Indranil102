@@ -5,6 +5,9 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=indranil102&label=Profile%20views&color=0e75b6&style=flat" alt="indranil102" /> 
 </p>
+<p align="right">
+  <img src="https://github.com/your-username/your-repository-name/raw/main/assets/Front-end_Developer.gif" alt="Front-end Developer GIF" width="500"/>
+</p>
 
 - 🔭 I’m currently working on **Ads_click_Pred**
 
@@ -101,5 +104,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=indranil102&show_icons=true&locale=en&layout=compact" alt="indranil102" />
 </p>
 
-<img align="right" alt="busy" width="400" src="https://www.chawtechsolutions.com/resources/java-developer/" />
+
 
