@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer & Ui_Ux designer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indranil102&label=Profile%20views&color=0e75b6&style=flat" alt="indranil102" /> </p>
-<img align="right" alt="busy" width="400" src="https://holisitclearning.com/careers/front-end-developers">
+<img align="right" alt="busy" width="400" src="[https://holisitclearning.com/careers/front-end-developers](https://www.chawtechsolutions.com/resources/java-developer/)">
 
 - 🔭 I’m currently working on **Ads_click_Pred**
 
