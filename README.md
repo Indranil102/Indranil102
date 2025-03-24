@@ -15,6 +15,9 @@ I'm currently working on React, Machine Learning<br>I'm looking for collaboratio
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Indranil102&theme=shadow_blue&no-frame=true&no-bg=true&margin-w=4)
 
+## 🏆 GitHub Badges
+[![An image of @indranil102's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/indranil102)](https://holopin.io/@indranil102)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
